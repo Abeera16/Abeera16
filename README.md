@@ -133,7 +133,9 @@ A **fine-tuned YOLOv8** pipeline that detects every handwritten signature in a P
 ---
 
 ## 📫 Connect With Me
+<p align="left"> 
+  <a href="mailto:abeeraamir347@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
-c
+</p>
 
 <p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
