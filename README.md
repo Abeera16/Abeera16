@@ -1,88 +1,142 @@
+<h1 align="center">Hi, I'm Abeera 👋</h1>
+<h3 align="center">AI/ML Engineer | Computer Vision · Deep Learning · LLMs & Agentic AI</h3>
+
 <p align="center">
-  📧 <a href="mailto:abeeraamir347@gmail.com"><b>abeeraamir347@gmail.com</b></a> &nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+ML+%2F+DL;Computer+Vision+%7C+NLP+%7C+LLM+Agents;Turning+data+into+real-world+products" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+I'm an **AI/ML Engineer** who enjoys building end-to-end intelligent systems — from fine-tuning computer vision models to designing multi-agent LLM pipelines that solve real, messy, real-world problems. My work spans **Machine Learning, Deep Learning, Computer Vision, NLP, and Agentic AI (RAG + multi-agent orchestration)**, and I like taking projects from a research idea all the way to a working, deployable product.
+
+- 🔭 Currently building **agentic AI systems** using RAG, LangGraph, and multi-agent architectures
+- 🌱 Deepening my expertise in **Computer Vision (YOLO, object detection)** and **explainable AI**
+- 🤝 Open to collaborating on **AI/ML, CV, and LLM-agent** projects
+- ⚡ Fun fact: I like turning "boring" pipelines (meetings, farming advice, government forms) into AI-powered assistants
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ [CivicAI – Pakistan Citizen Services Assistant](https://github.com/Abeera16/CivicAi)
+A production-ready, **multi-agent RAG platform** that helps citizens get accurate, up-to-date answers on government services (passport, NADRA, driving license, taxes, scholarships, health, legal aid) by retrieving from official sources instead of relying purely on LLM memory.
+
+**Highlights:** Multi-agent orchestration with LangGraph · RAG over official sources with ChromaDB · Web search fallback via Tavily · MCP server/client integration · Full-stack (FastAPI + React/TypeScript) · Dockerized
+
+`FastAPI` `LangChain` `LangGraph` `MCP` `OpenAI/Groq` `ChromaDB` `PostgreSQL` `React` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ [SigLens – Tiled YOLO Signature Detection](https://github.com/Abeera16/SigLens-Tiled-YOLO-Signature-Detection)
+A **fine-tuned YOLOv8** pipeline that detects every handwritten signature in a PDF of *any* page count. Solves the classic "tiny object" detection problem by tiling full pages so signatures don't shrink below what the model can reliably detect.
+
+**Highlights:** YOLOv8 fine-tuned on the SignverOD dataset · Custom page-tiling strategy for small-object detection · PDF → bounding-box pipeline · Outputs feed directly into downstream signature-verification models
+
+`YOLOv8` `Computer Vision` `PyTorch` `OpenCV` `PDF Processing`
+
+</td>
+</tr>
+</table>
+
+> 💡 **Tip for your pinned repos:** Right now your "Popular repositories" section (Snake Game, Interactive-Building-Mapper, Book-Dashboard, Student-Performance-Dashboard, Qalam, IoT-Monitoring-System) doesn't reflect your AI/ML focus. Swap those pins for **CivicAI**, **SigLens-Tiled-YOLO-Signature-Detection**, **KisanBot_AI-Powered-Farming-Assistant**, **NDVI-Based-Crop-Classification**, **SimSense-Explainable-Image-Similarity**, and **Meeting-agent** — these show off your ML/DL/CV/Agentic-AI skills much better.
+
+---
+
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+**Machine Learning & Deep Learning**
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+
+**Computer Vision**
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" />
+<img src="https://img.shields.io/badge/Object%20Detection-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/Image%20Similarity-4B8BBE?style=flat-square" />
+</p>
+
+**NLP, LLMs & Agentic AI**
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
+</p>
+
+**Backend & APIs**
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+**Databases & Vector Stores**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-4B8BBE?style=flat-square" />
+</p>
+
+**Tools & DevOps**
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abeera16&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeera16&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abeera16&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:abeeraamir347@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  
 </p>
 
-<h1 align="center">Hi, I'm Abeera 👋</h1>
-<h3 align="center">AI/ML Engineer — Computer Vision, LLM Agentic Systems & RAG</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Multi-Agent+Systems+(LangGraph+%2B+MCP);Computer+Vision+%2B+YOLO+%2F+VideoMAE+%2F+CLIP;RAG+%2B+Vector+Search+(ChromaDB);Model+Fine-Tuning+(PyTorch+%2B+LoRA)" alt="Typing SVG" />
-</p>
-
----
-
-### 🧠 About Me
-
-- 🎓 Computer Science undergraduate at **NUST**, building production-grade AI systems end-to-end — not theoretical exercises
-- 🔭 Focused on **agentic LLM systems** (LangChain, LangGraph, MCP) and **computer vision** (YOLO, VideoMAE, CLIP, Siamese Networks)
-- 🧪 Ship real, working products: model fine-tuning → containerized deployment (Docker, Railway, Streamlit Cloud) → live public demos
-- 🧩 Every AI pipeline I build is designed with **graceful degradation** — deterministic fallbacks when a model or API isn't available, not crashes
-- 🔬 Past research: benchmarked NETCONF clients across 5 languages for Software-Defined Optical Networks at NUST's ONT Lab
-
----
-
-### ⚙️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**AI/LLM & Agentic Systems:** LangChain · LangGraph (state graphs, tools, memory, conditional routing) · MCP (server & client) · OpenAI · Groq · Gemini · Hugging Face Transformers · function/tool calling
-**Computer Vision & Multimodal AI:** YOLOv8/YOLOv11 · VideoMAE · CLIP · Siamese Networks · Qwen2.5-VL · scene-graph construction · image captioning (LSTM, GPT-2)
-**RAG & Vector Search:** Chunking strategies · embeddings · ChromaDB · retrieval-quality tuning · citation-grounded generation
-**Model Fine-Tuning:** PyTorch · Scikit-learn · LoRA / prefix-tuning · transfer learning · GPU-accelerated training
-
----
-
-### 🚀 Featured AI/ML Projects
-
-**🏛️ [CivicAI — Pakistan Citizen Services Assistant](https://github.com/Abeera16/CivicAi)**
-`Python · FastAPI · LangChain · LangGraph · MCP · ChromaDB`
-Production multi-agent LangGraph workflow (supervisor, router, retrieval, clarification, citation, fallback agents) with conditional routing and human-in-the-loop clarification. Built an MCP server/client exposing web search, API lookups, and ChromaDB RAG search as unified tools, with a full chunking → embedding → retrieval pipeline grounded in a live-scraped knowledge base.
-
-**🖋️ [SigLens — Tiled YOLO Signature Detection](https://github.com/Abeera16/SigLens-Tiled-YOLO-Signature-Detection)** · [Live Demo](https://siglens-tiled-yolo-signature-detection-production.up.railway.app/)
-`YOLOv8 · PyTorch · Computer Vision`
-Fine-tuned YOLOv8 detector that tiles PDF pages into overlapping crops so small handwritten signatures stay above the model's detectable resolution, merging duplicate hits via NMS. Generator-based PDF streaming keeps memory flat regardless of document length.
-
-**✅ [SigVerify — Signature Verification](https://github.com/Abeera16/SigVerify-Signature-Verification)** · [Live Demo](https://sigverify-signature-verification-xsnrayspnzfxzptn8x2ohn.streamlit.app/)
-`Siamese Networks · Contrastive Loss · PyTorch`
-Siamese Neural Network embedding genuine/forged signatures into a discriminative space via contrastive loss, trained on a 179-writer, ~4,000-image dataset with a writer-disjoint train/val/test split to prevent data leakage — reports precision/recall/F1 with tuned similarity thresholds.
-
-**🎬 [CineMind AI — Multimodal Movie Scene Understanding](https://github.com/Abeera16/CineMind-AI-Multimodal-Movie-Scene-Understanding-Story-Generation)**
-`YOLOv11 · VideoMAE · Qwen2.5-VL · Qwen2.5-7B`
-Fuses YOLOv11 object detection, VideoMAE action recognition, and Qwen2.5-VL captioning into a unified temporal scene graph, then uses an LLM to generate grounded stories and answer questions about video content — every heavy model backed by a deterministic heuristic fallback.
-
-**🌾 [KisanBot — AI-Powered Agricultural Assistant](https://github.com/Abeera16/KisanBot_AI-Powered-Farming-Assistant)**
-`Groq · Gemini · Whisper`
-Multilingual voice/text/image assistant for farmers with multi-provider LLM failover and bidirectional translation across six regional languages, plus plant disease detection from images — sub-2-second response times.
-
-**🔎 [Multi-Agent Business Research Assistant](https://github.com/Abeera16/Multi-Agent-Business-Research-Assistant-)**
-`LangGraph · LangChain · Tavily · OpenAI`
-Clarity/Research/Validator/Synthesis agent pipeline with conditional routing, confidence-based validation loops, human-in-the-loop interrupts, and cost-aware LLM usage tracking.
-
-**📝 [Meeting-to-Action Pipeline](https://github.com/Abeera16/Meeting-to-Action-Pipeline-Workflow-Automation-Agent-)**
-`NLP · Slack API · Function Calling`
-Converts meeting transcripts into structured action items/decisions/escalations via tool-calling, with a confidence-scored pipeline routing ambiguous items to human review and deterministic parsing as a fallback.
-
-**🖼️ [SimSense — Explainable Image Similarity](https://github.com/Abeera16/SimSense-Explainable-Image-Similarity)**
-`CLIP · GPT-2 · Prefix-Tuning`
-Fuses CLIP embeddings with a GPT-2 decoder via a custom prefix-tuning network to explain *why* images are similar, not just that they are — evaluated with BLEU/ROUGE/METEOR/CIDEr/BERTScore/CLIPScore.
-
-**🌍 [NDVI Crop Classification (Rice & Cotton)](https://github.com/Abeera16/NDVI-Based-Crop-Classification-for-Rice-and-Cotton-Using-Machine-Learning)**
-`Random Forest · SVM · XGBoost · K-Means`
-Classifies crops from multi-year NDVI time-series using supervised and unsupervised models, with an interactive dashboard comparing results across train/test split strategies.
-
-
-
+<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
