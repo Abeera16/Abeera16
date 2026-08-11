@@ -1,68 +1,51 @@
-<h1 align="center">Hi, I'm Abeera 👋</h1>
-<h3 align="center">AI/ML Engineer & Full-Stack Developer — building multi-agent systems, computer vision pipelines, and production-grade apps</h3>
+# Abeera Amir
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Multi-Agent+AI+Systems;Computer+Vision+%2B+YOLO+Pipelines;RAG+%2B+LangGraph+Orchestration;Full-Stack+MERN+%2F+FastAPI+Apps" alt="Typing SVG" />
-</p>
+**AI/ML Engineer** — agentic systems, computer vision, and RAG pipelines that ship as working products, not notebooks.
 
----
-
-### 🧠 About Me
-
-- 🔭 Currently building **agentic AI systems** — multi-agent RAG platforms, workflow-automation agents, and computer-vision pipelines with real production concerns (fallback logic, cost-awareness, scalability)
-- 🧩 I care about **defensive engineering**: my AI projects are built to degrade gracefully (heuristic fallbacks) rather than crash when a model or API isn't available
-- 🛠️ Comfortable across the stack — from fine-tuning YOLO models to orchestrating LangGraph agent graphs to shipping React/FastAPI/MERN apps end-to-end
-- 🌱 Always exploring the intersection of **explainability, reliability, and applied ML**
+📧 abeera.amir.edu@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abeera-amir-476aa72b1/) &nbsp;·&nbsp; Islamabad, Pakistan
 
 ---
 
-### ⚙️ Tech Stack
+## About
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+I'm a Computer Science undergraduate at NUST building AI systems end-to-end — from model fine-tuning and RAG pipelines to containerized, deployed products with live demos. My work centers on three things: multi-agent orchestration (LangChain/LangGraph/MCP), computer vision and multimodal models (YOLO, VideoMAE, CLIP, Siamese networks), and systems that fail gracefully — every project below is designed with fallback logic rather than a single point of failure.
 
----
+Previously a Research Assistant at NUST's Optical Networks Lab, benchmarking NETCONF client performance across five languages under varying concurrency.
 
-### 🚀 Featured Projects
+## Core Focus
 
-| Project | What it does |
-|---|---|
-| 🖋️ [**SigLens — Tiled YOLO Signature Detection**](https://github.com/Abeera16/SigLens-Tiled-YOLO-Signature-Detection) | Fine-tuned YOLOv8 detector that tiles PDF pages to catch small handwritten signatures, with NMS merging and constant-memory lazy PDF streaming — works on documents of any page count. |
-| ✅ [**SigVerify — Signature Verification**](https://github.com/Abeera16/SigVerify-Signature-Verification) | Companion to SigLens — verifies *whose* signature it is / genuine vs. forged, with a full training + preprocessing notebook pipeline and results dashboard. |
-| 🏛️ [**CivicAI**](https://github.com/Abeera16/CivicAi) | Production-grade multi-agent RAG platform for Pakistani government services, orchestrated via LangGraph (supervisor/router/retrieval/fallback agents), grounded in scraped official sources + live web search instead of LLM memory alone. |
-| 🎬 [**CineMind AI**](https://github.com/Abeera16/CineMind-AI-Multimodal-Movie-Scene-Understanding-Story-Generation) | Multimodal video-understanding pipeline — YOLO + VideoMAE + VLM captioning fused into a temporal context for LLM-driven story generation and video Q&A, with deterministic fallbacks when heavy models aren't available. |
-| 📝 [**Meeting → Action Pipeline**](https://github.com/Abeera16/Meeting-to-Action-Pipeline-Workflow-Automation-Agent-) | Converts raw meeting transcripts into structured action items, decisions, escalations, and auto-drafted Slack/email output — with deterministic parsing as a fallback when LLM output is unreliable. |
-| 🌾 [**AgroBot / KisanBot**](https://github.com/Abeera16/KisanBot_AI-Powered-Farming-Assistant) | Gemini-powered farming assistant supporting voice, text, and image input for crop and disease diagnosis. |
-| 🐍 [**AI Snake Game (Deep Q-Learning)**](https://github.com/Abeera16/AI-Based-Snake-Game) | Classic Snake reimplemented with a DQN agent that learns to play through reinforcement learning, with a Human-vs-AI mode. |
-| 🌍 [**NDVI Crop Classification**](https://github.com/Abeera16/NDVI-Based-Crop-Classification-for-Rice-and-Cotton-Using-Machine-Learning) | Classifies rice vs. cotton from multi-year NDVI time-series using both supervised and unsupervised ML models, with an interactive evaluation dashboard. |
+- **Agentic AI** — LangGraph state machines, MCP server/client tooling, conditional routing, human-in-the-loop interrupts
+- **RAG & Retrieval** — chunking strategy, embedding quality, ChromaDB, citation-grounded generation
+- **Computer Vision** — object detection and fine-tuning (YOLOv8/v11), action recognition (VideoMAE), similarity learning (Siamese networks, contrastive loss)
+- **Production Engineering** — async FastAPI backends, Docker/Kubernetes, deployment on Railway/Vercel/Streamlit Cloud
 
-*(See the [full repo list](https://github.com/Abeera16?tab=repositories) for more — dashboards, IoT monitoring, campus mapping, and coursework projects.)*
+## Selected Work
 
----
+**[CivicAI](https://github.com/Abeera16/CivicAi)** — A multi-agent RAG assistant for Pakistani government services. Six specialized agents (supervisor, router, retrieval, clarification, citation, fallback) coordinate through LangGraph with conditional routing, backed by an MCP server exposing web search and RAG tools with retry logic. FastAPI + PostgreSQL + React, containerized with Docker Compose.
 
-### 📊 GitHub Stats
+**[SigLens](https://github.com/Abeera16/SigLens-Tiled-YOLO-Signature-Detection)** — A fine-tuned YOLOv8 model that finds handwritten signatures in PDFs of any length. Solves the small-object problem by tiling pages into overlapping crops instead of downscaling, then merges duplicate detections with NMS. Streams pages via a generator so memory stays constant regardless of document size. [Live demo](https://siglens-tiled-yolo-signature-detection-production.up.railway.app/).
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abeera16&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeera16&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**[SigVerify](https://github.com/Abeera16/SigVerify-Signature-Verification)** — A Siamese network trained with contrastive loss to distinguish genuine from forged signatures, on a 179-writer, ~4,000-image dataset. Uses a writer-disjoint train/test split to prevent leakage and ensure the model is evaluated on truly unseen handwriting. [Live demo](https://sigverify-signature-verification-xsnrayspnzfxzptn8x2ohn.streamlit.app/).
 
----
+**[CineMind AI](https://github.com/Abeera16/CineMind-AI-Multimodal-Movie-Scene-Understanding-Story-Generation)** — A multimodal video-understanding platform that fuses YOLOv11 object detection, VideoMAE action recognition, and Qwen2.5-VL captioning into a temporal scene graph, then uses an LLM to generate grounded stories and answer questions about the footage. Every heavy model has a deterministic fallback, so the system degrades instead of failing outright.
 
-### 📬 Connect
+**[Multi-Agent Business Research Assistant](https://github.com/Abeera16/Multi-Agent-Business-Research-Assistant-)** — A four-agent research pipeline (Clarity, Research, Validator, Synthesis) built on LangGraph with confidence-based validation loops and human-in-the-loop interrupts for query clarification, plus live web search via Tavily.
 
-<p align="left">
-  <a href="mailto:abeeraamir347@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+**[Meeting-to-Action Pipeline](https://github.com/Abeera16/Meeting-to-Action-Pipeline-Workflow-Automation-Agent-)** — Converts raw meeting transcripts into structured action items, decisions, and escalations via function-calling, then auto-drafts Slack messages and emails for high-confidence output while routing ambiguous items to human review.
+
+**[KisanBot](https://github.com/Abeera16/KisanBot_AI-Powered-Farming-Assistant)** — A multilingual agricultural assistant for Pakistani farmers with voice, text, and image input, sub-2-second responses, automatic failover across Groq/Gemini/Whisper, and plant disease detection from photos.
+
+*Additional projects — explainable image similarity, NDVI-based crop classification, IoT monitoring, and coursework — are on my [repositories page](https://github.com/Abeera16?tab=repositories).*
+
+## Technical Skills
+
+`Python` `TypeScript` `Java` `C++` `SQL`
+`FastAPI` `Flask` `Django` `Node.js`
+`LangChain` `LangGraph` `MCP` `OpenAI API` `Hugging Face Transformers`
+`PyTorch` `Scikit-learn` `YOLO` `VideoMAE` `CLIP`
+`ChromaDB` `PostgreSQL` `MongoDB` `Redis`
+`Docker` `Kubernetes` `Railway` `Vercel`
+
+## Education
+
+**National University of Sciences and Technology (NUST)** — BS Computer Science, 2023–2027
