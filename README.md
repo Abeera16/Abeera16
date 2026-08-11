@@ -53,9 +53,7 @@ A **fine-tuned YOLOv8** pipeline that detects every handwritten signature in a P
 </tr>
 </table>
 
-> 💡 **Tip for your pinned repos:** Right now your "Popular repositories" section (Snake Game, Interactive-Building-Mapper, Book-Dashboard, Student-Performance-Dashboard, Qalam, IoT-Monitoring-System) doesn't reflect your AI/ML focus. Swap those pins for **CivicAI**, **SigLens-Tiled-YOLO-Signature-Detection**, **KisanBot_AI-Powered-Farming-Assistant**, **NDVI-Based-Crop-Classification**, **SimSense-Explainable-Image-Similarity**, and **Meeting-agent** — these show off your ML/DL/CV/Agentic-AI skills much better.
 
----
 
 
 ## 🛠️ Tech Stack
@@ -138,4 +136,3 @@ A **fine-tuned YOLOv8** pipeline that detects every handwritten signature in a P
 
 </p>
 
-<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
