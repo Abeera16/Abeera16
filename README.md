@@ -84,7 +84,5 @@ Fuses CLIP embeddings with a GPT-2 decoder via a custom prefix-tuning network to
 `Random Forest · SVM · XGBoost · K-Means`
 Classifies crops from multi-year NDVI time-series using supervised and unsupervised models, with an interactive dashboard comparing results across train/test split strategies.
 
----
 
-### 📊 GitHub Stats
 
