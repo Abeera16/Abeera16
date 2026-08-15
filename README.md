@@ -13,10 +13,8 @@
 
 I'm an **AI/ML Engineer** who enjoys building end-to-end intelligent systems — from fine-tuning computer vision models to designing multi-agent LLM pipelines that solve real, messy, real-world problems. My work spans **Machine Learning, Deep Learning, Computer Vision, NLP, and Agentic AI (RAG + multi-agent orchestration)**, and I like taking projects from a research idea all the way to a working, deployable product.
 
-- 🔭 Currently building **agentic AI systems** using RAG, LangGraph, and multi-agent architectures
-- 🌱 Deepening my expertise in **Computer Vision (YOLO, object detection)** and **explainable AI**
-- 🤝 Open to collaborating on **AI/ML, CV, and LLM-agent** projects
-- ⚡ Fun fact: I like turning "boring" pipelines (meetings, farming advice, government forms) into AI-powered assistants
+-  Currently building **agentic AI systems** using RAG, LangGraph, and multi-agent architectures
+-  Deepening my expertise in **Computer Vision (YOLO, object detection)** and **explainable AI**
 
 ---
 
